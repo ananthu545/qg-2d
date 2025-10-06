@@ -8,6 +8,11 @@ Clone this repository. Then, create a virtual environment and install dependenci
    ```
 ---
 
+## Usage
+
+- Start from the `Driver` directory. Please change the directory names within according to your system or workflow. 
+- The `Config` directory provides example configuration files with parameters for the simulations.
+
 ## Citing This Work
 
 If you use find this work interesting, please cite our paper, codes, or dataset:
