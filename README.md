@@ -1,3 +1,7 @@
+This repository is associated with our paper, ['Guided Unconditional and Conditional Generative Models for Super-Resolution and Inference of Quasi-Geostrophic Turbulence'](https://arxiv.org/abs/2507.00719). It contains the codes used for simulating the 2D quasi-geostrophic turbulence PDEs. We use a Fourier pseudo-spectral scheme with double periodic boundary conditions.
+
+![alt text](img/image.png)  
+
 ## Installation
 
 Clone this repository. Then, create a virtual environment and install dependencies:
